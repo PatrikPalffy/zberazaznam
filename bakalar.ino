@@ -9,8 +9,8 @@
 // ==========================
 // WIFI + FIREBASE SETTINGS
 // ==========================
-const char* WIFI_SSID = "Patrik iPhone-ja";
-const char* WIFI_PASSWORD = "123456789";
+const char* WIFI_SSID = "WIFI-NAME";
+const char* WIFI_PASSWORD = "WIFI-PASSWORD";
 
 const char* FIREBASE_HOST = "bakalar-database-default-rtdb.europe-west1.firebasedatabase.app";
 
