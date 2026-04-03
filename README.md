@@ -37,7 +37,7 @@ Zariadenie sa pripája na internet prostredníctvom Wi-Fi siete. Počas testovan
 - systém je závislý od dostupnosti Wi-Fi pripojenia
 - GPS modul vyžaduje priamu viditeľnosť satelitov pre správnu funkčnosť
 - v interiéri môžu byť GPS údaje nepresné alebo nedostupné
-- 
+
 ## Možnosti rozšírenia
 - pridanie ďalších senzorov
 - implementácia lokálneho ukladania dát (napr. SD karta)
